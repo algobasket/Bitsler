@@ -2,10 +2,12 @@
 What is BitslerClone - (Under Development)
 ###################
 
-BitslerClone is a cryptocurrency casino games . You can play Dice,Poker
-Blackjack,Snooker,8Balls..and many more
+BitslerClone is a cryptocurrency casino games .
+You can play Dice,PokerBlackjack,Snooker,8Balls
+..and many more
 http://bitsler.algobasket.com
-******************* 
+
+*******************
 Release Information
 *******************
 
