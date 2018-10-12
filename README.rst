@@ -7,7 +7,18 @@ You can play Dice,PokerBlackjack,Snooker,8Balls
 ..and many more
 http://bitsler.algobasket.com/
 
- .. image:: https://raw.githubusercontent.com/algobasket/Bitsler/master/image.png 
+ .. image:: https://raw.githubusercontent.com/algobasket/Bitsler/master/image.png
+
+ *******************
+ Get Started BitslerClone
+ *******************
+
+ docker-bitcoind - https://github.com/BitslerCasino/docker-bitcoind
+ docker-bitcoincash - https://github.com/BitslerCasino/docker-bitcoincash
+ docker-dogecoind - https://github.com/BitslerCasino/docker-dogecoind
+ docker-litecoind - https://github.com/BitslerCasino/docker-litecoind
+ docker-dashcoind - https://github.com/BitslerCasino/docker-dashcoind
+ docker-rippled - https://github.com/BitslerCasino/docker-rippled
 
 *******************
 Release Information
