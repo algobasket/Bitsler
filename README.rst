@@ -26,13 +26,14 @@ guide change log <https://github.com/algobasket/bitsler/updates/>`_.
 Server Requirements
 *******************
 
-PHP version 5.6 or newer is recommended.
-Socket.IO
-Angular
-Ubuntu 16.04 with 4GB RAM (16GB Recommended)
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+ - PHP version 5.6 or newer is recommended.
+ - Socket.IO
+ - Angular
+ - Ubuntu 16.04 with 4GB RAM (16GB Recommended)
+
+  It should work on 5.3.7 as well, but we strongly advise you NOT to run
+  such old versions of PHP, because of potential security and performance
+  issues, as well as missing features.
 
 
 Report security issues to our `Security Panel <mailto:algobasket@gmail.com>`
