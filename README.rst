@@ -5,13 +5,13 @@ What is BitslerClone - (Under Development)
 BitslerClone is a cryptocurrency casino games . You can play Dice,Poker
 Blackjack,Snooker,8Balls..and many more
 http://bitsler.algobasket.com
-*******************
+******************* 
 Release Information
 *******************
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `BitslerClone Downloads
-<http://bitsler.algobasket.com/download>`_ page. 
+<http://bitsler.algobasket.com/download>`_ page.
 
 **************************
 Changelog and New Features
