@@ -7,7 +7,7 @@ You can play Dice,PokerBlackjack,Snooker,8Balls
 ..and many more
 http://bitsler.algobasket.com/
 
-![](Bitsler/1500x500)  
+![](image.png)  
 
 *******************
 Release Information
