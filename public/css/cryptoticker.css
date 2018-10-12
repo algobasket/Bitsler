@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+body
+{
+  margin:0;
+  padding:0;
+  /*overflow-x: hidden;*/
+}
+.ticker ul
+{
+  margin:0;
+  width:100%;
+}
+.ticker
+{
+  font-family: "Quicksand";
+  padding:10px;
+  width:100vw;
+  border-bottom:1px solid #555;
+  background: linear-gradient(#222,#222)
+}
+.ticker li
+{
+  padding:0;
+  margin:0;
+  list-style: none;
+  display: inline;
+}
+.ticker a
+{
+  text-decoration: none;
+  color: inherit;
+}
+.top, .bottom
+{
+  padding-left: 10px;
+}
+.top
+{
+  font-size:16px;
+  font-weight: bold;
+}
+.top, .bottom
+{
+  padding-right:15px;
+}
+.coin
+{
+  display: inline-block;
+}
+.cap, .name
+{
+  padding-right:10px;
+}
+.pct_up
+{
+  color:#12ba5b;
+}
+.pct_down
+{
+  color:#d32426;
+}
+.pct_none
+{
+  color:#C26D19;
+}
